@@ -1,0 +1,171 @@
+### frames-02-06.txt
+
+
+UNCERTAIN
+- 0002 left: 草書題字（右列「自由」と読めるが左列2字は判読不能）〔?〕〓〓
+- 0003 right: 落款の草書〔?〕〓〓〓樣遊 ／ 大書「命」
+- 0003 left: さて〔?あ〕な〔?た〕方 （「あ」「た」は異形字形。本文は 「さてあなた方ハ」の意と推定）
+- 0004 right: 「より〔?〕も」（「よ」の後の字形がりの異形か。「命にても」「是等より〔?〕も」の2箇所を現状の読みで転写）; 「あな〔?た〕方」; 「ど。が但しハ」の句点位置は印刷どおり
+- 0004 left: 「珠玉〔?の〕話しではあ〔?る〕まいが」
+- 全般注: 本書の活字は「に」が「よ」に似た字形で組まれている（例「事に心を」「書中には」「命にても」）。文脈とNDL OCR（「事ま心を」）から「に」と転写した。「す」(申す・卑屈する)、「け」(無ければ)、「か」(樹か金か)、「ハ」(自由ハ、波に似た字形)、「ぞ」(掛らぞ・識らぞして・致さぞ・能はぞ。「ず」の可能性あり、印刷どおり「ぞ」と転写)、「歟」(何んでござる歟・ありましよう歟)も同様に字形が紛らわしく、文脈で読んだ。
+- 0004 left末〜0005 right頭: 「事ではな／りません」と頁を跨ぐ（「り」は0005右冒頭）。
+- 0005 right: 「小子」(「小手」と見える字形), 「あなた方」の「た」の字形は異形。
+- 0005 left: 「ひ」(及ひ), 「さる」(用ひさる／張らさる) は濁点なしと見て印刷どおり。
+- 0006 right: 本頁は大半が空白。
+
+### frames-07-11.txt
+
+# UNCERTAIN (〔?〕/〓), with frame and context
+# 全般: 変体仮名風の字形(「に」が「よ」に似る、「の」が「れ」に似る、「り」が「ま/て」に似る等)は文脈で通常の仮名に直した。ルビ・圏点は省略。「を」の変体字形は「を」に統一。
+# 7R: 申して〔?却〕つて (「却」判読不確か)
+# 7L: 甚だ踈くう/か〱として (「う」「か〱」は字形から; 踈く|うか〱として の可能性)
+# 8R: 民の輳〔?る〕/ 申〔?す〕君 / 世の中の〔?害〕物 / 「〔?ネ〕ロ」(字形は「子」風)
+# 8L: 「ジ〔?ヨ〕ン」(黒つぶれ) / 金を〔?貪〕て取り
+# 9R: 及ば〔?な〕い / 云はれましよう〔?ふ〕(「か」か)
+# 10R: 功もな〔?い〕ぞ〔?あ〕の。/ 證據であ〔?り〕ま/ す」(」の意味不明)/ 高くな〔?る〕べし / 取られ〔?た〕る / 知ら〔?ず〕
+# 10L: 斯〔?る〕時に / 論ぜ〔?ず〕/ 望ま〔?ず〕して
+# 11R: 出來る事〔?ぞ〕 / 人〔?達〕が / 一に〔?ば〕先人 / 益〔?す〕るもの / 今は〓も後人(活字脱落か、ルビ「いま」のみ)
+# 11L: 〔?是〕に依つて / 滿足〔?す〕る / 用ひま〔?た〕
+
+### redo-14-15.txt
+
+
+UNCERTAIN
+- 0014 right col1: 恥る〔?で〕故 -- glyph after 恥る unclear (で/ぞ/づ?)
+- 0014 right col5: 才力〔?あ〕てこそ -- cursive glyph (あ/有?)
+- 0014 right col9: 様〔?な〕るものじや -- glyph ゑ-like (な or る)
+- 0014 right col10: 羽も〔?あ〕て -- cursive glyph (あ/有?)
+- 0014 left col1: 〔?ほ〕とんど -- glyph ゞ-like
+- 0014 left col2: あれど〔?も〕 -- ど+glyph ligature-like
+- 0014 left col3: い〔?た〕しますま〔?い〕 -- last glyphs unclear (ま/い/に?)
+- 0014 left col4: 〔?又〕束縛ほどいや〔?な〕る〔?も〕の〔?は〕なき〔?な〕〔?ぞ〕。 -- whole clause glyphs doubtful
+- 0015 left col1: 戰爭〔?爲〕〔?の〕も爭を爲る -- 爲の/れ glyph doubtful
+- 0015 left col5: 竟に〔?とら〕べ得る能はず -- 2 glyphs after 竟に (OCR hint suggests まとらへ), unclear
+- also: の-variant (れ-like) rendered as の; に-variant (ま/よ-like) rendered as に throughout; ぎ/ざ/ぞ dakuten usage in 行ぎ etc. kept as seen; 〔2行 "ず/づ" distinctions in 0015 left col5 "厭しづけられて" as seen〕
+
+### redo-16-16.txt
+
+
+UNCERTAIN
+- frame 0016 right, line 3: 「害すべからず」 — 「か」「ず」 glyphs ambiguous (read from context)
+- frame 0016 right, line 3: 「貨物」 — 貨 printed like 貸
+- frame 0016 right, line 4: 〔?ハ〕 in 「其罪〔?ハ〕有無」 (glyph like れ)
+- frame 0016 right, line 5: 〔?し〕 in 「證せ〔?し〕むべし」 (looks like と)
+- frame 0016 right, line 7: 「印を押さしめた」 — 印の次の「を」「押」判読困難
+- frame 0016 right, line 10: 〔?チ〕 in 「チヤーレス」 (printed ナ-like); also 「ローマ」「シーサル」 minor katakana read by context
+- frame 0016 left, line 2: 〔?ハ〕 in 「民〔?ハ〕自由」 (glyph like れ)
+- frame 0016 left, line 3: 「酬てござる」 — ひ not visible as printed
+- frame 0016 left, last line: 「貴く〔?ハ〕の關係」「廣き〔?も〕〔?ハ〕にて」 — glyphs unclear; line continues to next frame (人民た…)
+
+### frames-17-21.txt
+
+
+UNCERTAIN
+(Notes: this transcription was made by reading the page images directly; many glyphs are small/blurred, so hiragana/kanji identities marked below, plus un-marked "faithful as seen" readings, merit re-checking. Frame right-page margin numbers were not visible in crops; left-page margin numbers 十二〜十六 for frames 17-21.)
+17R l1: 得之〔?ゝ〕取て / 失ふべ〔?か〕らざと (glyph for 'か' unclear)
+17R l3: 丼〔?ニ〕之〔?ニ〕似ふ (に/ニ ambiguity, 丼 may be 幷)
+17R l7-9: ハア〔?ト〕云ふて ; 力も〔?河〕〔?ぞ〕を〔?〕せぞ (illegible/unclear after 力も)
+17L l8: 稅金を喰ひ (ひ vs も)
+18R l2-3: 何〔?ま〕/ません平 ; 默いるざ〔?〕ま ; ましよう〔?か〕; 民と〔?も〕あの
+18L l1-2: 〔?ま〕又支那 ; 〔?致〕民を牧にる ; ものが〔?ヂド〕(small katakana-like glyphs) ; 歐てやえ〔?り〕たい ; 彼の「カリギュラ」/「カ|リギュラー」 appears twice with different spellings
+19R l1-6: 〔?れ〕なりなさい ; なんでも〔?ずず〕 ; 〔?な〕げれば〔?つ〕ま〔?ら〕ない ; 得られな〔?る〕 ; 〔?と〕はない ; 得られず〔?どゞ〕らば
+19L l1-9: 〔?河〕〔?於〕通〔?よ〕て ; 建て〔?れまハ〕 ; 〔?か〕六角 ; 本〔?た〕
+20R l7: 此國〔?〕(blotted) ; 云ふ〔?が〕樣
+20L: 搆〔?〕 ; いづ〔?〕く ; 鹽〔?〕梅 ; 柔が〔?な〕る上〔?に〕
+21R: 卑屈な〔?る〕れ ; 張つ〔?て〕を ; 〔?も〕政府自から ; 〔?擠居〕(ruby せつ・か…; maybe 折檻) 
+21L: 熙々〔?皞〕々 ; 通〔?りに〕 ; 遣〔?り〕
+
+### frames-27-31.txt
+
+# UNCERTAIN
+frame 0027 right: 「ましよう〔?但〕し右ニ申す」 — glyph like 低/但 (ruby たゞ); 「〔?當〕前の職分」 — 當/曾 (ruby とうぜん?)
+frame 0027 left: 「でハ〔?な〕れ國ハ」 — glyph printed "る"-like (NDL: おれ), sense unclear
+frame 0028 left: 「九分〔?釐〕ハ」 「九分〔?釐〕と」 — glyph 釐/厘/科-like (ruby りん)
+frame 0029 right: 「來る〔?か〕况して」 (glyph ろ with dot); 「容易〔?ニ〕推壞られる」
+frame 0029 left: 「人物〔?英〕でゝ」 — glyph 英, ruby ひい (秀?)
+frame 0030 right: 「成り〔?傷〕ひ」 — glyph 傷, ruby そこ (損?)
+frame 0030 left: 「虻の目〔?ニ〕前を」
+frame 0031 right: 「政府の〔?ミ〕人民ハ」; 「君ハ〔?擒〕〔?ニ〕遇はざれば」 (ruby どりこ)
+frame 0031 left: 「唯〔?り〕支那の」 (ruby ひとり?)
+# NOTES (not uncertain, printed forms): glyph ふ-like / ろ-like = hentai か (置かざれバ, 底根から, 木か土か, 殺さるゝか); glyph よ-flat = ニ, curved よ = より; 〱 = くの字点 (人〱, 仲〱, 洶〱, 交〱, 遇〱, 段〱, あと〱); 變體 "ぞ" read as ず; "ゐ" as い. Page numbers (margin, left page of each frame): 27=廿二, 28=廿三, 29=廿四, 30=廿五, 31=廿六. Some tentative reads outside 〔?〕: 「仕込あれば」(30L), 「おそ宜し」 (27L, ruby おほ?), 「尙ほ」(28R), 「ふ」/「ま」「た」 etc.
+
+### redo-32-left.txt
+
+
+UNCERTAIN
+- 割注1行目 「しと然り」: 冒頭「し」「と」 (前頁からの続きか)。「專制と以て」の「と」は字形が「と」(文脈上は「を」)。そのまま「と」で転写。
+- 割注2左行 「叛〔?き〕て」: 字形「ん」状。 「メ〔?テ〕ルニッ〔?ヒ〕」: テ・ヒ に見える字形が不明瞭。「纔〔?か〕」: 「ク」状の字形。「之と避け」の「と」も同様に字形は「と」(文脈上「を」)。
+- 割注2右行頭「に」: 字形「ふ」状を「に」と読んだ（他の「ふ」状字形も同様に「に」と読み、「安靜にあらす」等は「に」で転写）。
+- 割注3 「ブリユセ」: 小字で詰まって印刷、「リ」「ユ」「セ」の判読にやや不安。
+- 「リ〔?ユ〕ンニメード」: 「リ」の脇の小「ユ」状の字が本文か否か不明。
+- 本文「次第〔?に〕」: 字形「ミ」状。 「譯〔?ふ〕つて」: 「に」か「あ」か不明。
+- 「穴あはれや〱」: 〱 は大きな「く」状の反復記号として転写。
+- 「よ」状字形(代よ・野よ・反對よ・艦よ・實よ)は「に」と読んで転写 (反對にて／軍艦に／實に)。
+
+### redo-33.txt
+
+
+UNCERTAIN
+- 0033 right col2: 〔?迄〕評 (迄 glyph, ruby まく/へう)
+- 0033 right col4: 報告〔?心〕。此時
+- 0033 right col5: あら〔?す〕 (glyph looks like そ)
+- 0033 left col1/2: 相〔?合〕し (台/合)
+- 0033 left c8: 遁去〔?て〕しが ; 歸〔?て〕し (glyph reading unsure)
+- Note: glyph resembling ニ (hiragana に variant) transcribed as ニ throughout; ゟ used in 評せしゟ.
+
+### redo-34-35.txt
+
+
+UNCERTAIN
+(general) The glyphs transcribed ろ (靜ろと, 確ろなる, 事ろも, ぬろ) look like a cursive variant of か; kept as ろ. Glyphs transcribed 〔?か〕 are か-like ふ/う shapes. The '3rd line of left page 34 row 3 確ろなる' (frame 34 left) second glyph read as な (loop form).
+- 0034R l.2 ありま〔?す〕: last glyph ぬ/す-like
+- 0034R l.5 申し〔?居〕る: glyph resembles 存, sense 居
+- 0034R l.6 國と〔?い〕違ふ: glyph い, sense とハ?
+- 0034R l.7 加〔?ぬ〕て: glyph ぬ/ね; maybe お(於)
+- 0034R l.8 負〔?ひ〕〓〓る〓元來〔?邇〕か: heavily damaged; 邇 uncertain (ruby にち)
+- 0034R l.10 騷き豎つ〓き筈なる〓「アメリカ」國ていゝ: damaged; 「アメリカ」 letters partly inferred; 「ていゝ」 unsure (い / ゝ)
+- 0034L l.6 有つさ〔?ぬ〕らじや: glyph ふ/ぬ-like; 〔?さ〕 also curly
+- 0034L l.10 計られ〔?ぬ〕: glyph ぬ/る
+- 0034L l.11 〔?以〕〓: first two glyphs at top of last column unclear (い + faint dots)
+- 0035R l.1 様な〔?な〕お話: the glyph な/る
+- 0035R l.7 尊〔?き〕もの: glyph れ-like, sense き
+- 0035R l.8 〔?チ〕ト: glyph ナ/チ
+- 0035L l.3 國紊〔?れ〕, 國紊る〔?れ〕ハ: glyph を-like, sense れ
+- 0035L l.6 な〔?い〕〔?か〕: い and か-like glyph; no 。 visible after; stray 〜 mark beside て in line 6
+
+### redo-36-36.txt
+
+UNCERTAIN
+- frame 0036 left: 前〔?〱〕 in "さて前〔?〱〕より" (glyph ふ+く, probably 前々 mark)
+- frame 0036 left: 〔?な〕く (ハなく, glyph like る); 者〔?な〕れバ (glyph like る)
+- frame 0036 left: 出來〔?ず〕 (ず vs ぬ); もの〔?で〕 (で vs て); あ〔?り〕ます (glyph like ヱ)
+- frame 0036 left: page number 二十一〔?〕 (margin, partly cut)
+- ○ after 能ハず placed beside text; taken as punctuation.
+
+### redo-41-41.txt
+
+
+UNCERTAIN
+- frame 41 right, col1 start: 〔?な〕仕方 (glyph may be な or る; ...なる仕方に)
+- frame 41 right, col3: ハ〔?な〕い已れ (glyph like な; ばかりでハない己れ)
+- frame 41 right, col6: 〔?ふ〕んまに國を賣る (first glyph unclear, maybe ぶ/ふ/さ)
+- frame 41 right, col7: 衰しひ事でハ〔?な〕い〔?か〕ぬの是れ (ハ な い か ぬ の — "ぬ" glyph unclear; 衰 = 哀 ruby かな)
+- frame 41 right, col9: なりますま〔?い〕 (final glyph like ぬ/い)
+- frame 41 left, c8: 自分一人〔?己〕一人で立つよ (glyph between 一人 and 一人 looks like 己/已, may be も)
+
+### frames-42-47.txt
+
+
+UNCERTAIN
+frame 0042 right col7 「自由〔?を〕するのが」: を/ま様の字形、を と推定
+frame 0042 left 「〔?お〕まへ」(col2,4,6): お/れ 判別不能
+frame 0042 left 「人〔?に〕才あり」: 「よ」形の字、に と推定 (frame 0043 left の「人〔?に〕貧富」「上〔?に〕ハ」も同様。0042右の「自由よ止る」「自由よ生る」は よ のまま)
+frame 0042 left col10 「益がる為」: 「益があるが為」等の可能性、字形は 益がる為
+frame 0043 right col3 「無ければ」の「は」位置は印字どおり(要再確認)、col4 「〔?お〕まへ」
+frame 0043 left col7 「と〔?ゞ〕が」: ゞ/ゝ 不明; col10 「爲〔?ぞ〕」: 裏写り(透け)で判読困難; col9 「立たもの」付近も裏写り
+frame 0044 right col1 「官〔?的〕きや」: 官吏? 字形は的に見える; 行頭に○状の印あり
+frame 0044 left col4 「か〔?有〕〔?も〕ない」: 判読困難; col7 「確〔?かに〕定めよ」: 「確ふよ」様の字形
+frame 0045 right col7 「榮〔?ひ〕て〔?行かしと思ふよ〕」: 末尾の字形が崩れていて判読困難; col5 「五百萬」は筆線で一部重なる
+frame 0045 left col6 「然レ〔?モ〕」: 字形は ヒ/モ 様
+frame 0047 right 「中野啓〔?藏〕」判読やや不確実; 「同嬉」は 嬉野 の可能性(2字のみ判読); 「古賀男夫」「山崎登」やや不確実
+備考: 0043,0044,0045の版心(柱)は 民權自由論+附錄番号; 0042 右ページ版心は損傷
